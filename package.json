@@ -1,0 +1,12 @@
+{
+  "name": "node-ts-runner",
+  "description": "Node run TypeScript",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "private": "true",
+  "scripts": {},
+  "dependencies": {
+    "ts-node": "^8.6.0",
+    "typescript": "^3.7.4"
+  }
+}
