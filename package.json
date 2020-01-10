@@ -6,6 +6,7 @@
   "private": "true",
   "scripts": {},
   "dependencies": {
+    "@types/node": "^13.1.6",
     "ts-node": "^8.6.0",
     "typescript": "^3.7.4"
   }
